@@ -1,8 +1,8 @@
-# React Wave Generator Demo 
+# React Wave Generator Demo
 
 ## Overview
 
-Simple demo for react wave generator hook.
+Simple hook to calculate audio peak points and visualize them as a wave using canvas.
 
 ## Features
 
